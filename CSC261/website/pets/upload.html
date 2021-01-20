@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1> Shelter Center </h1>
+<a href="../shelter/viewPets.php">Return to Shelter Center</a> <br>
+<a href="../home.php">Return to Homepage</a> <br>
+<h3> Upload Image </h3>
+
+<form action="fileUpload.php" method="post" enctype="multipart/form-data">
+	<label for="petid" style="display:block"><b>Pet_id</b></label>
+	<input type="number" style="display:block" placeholder="Pet_id">
+
+        <label for="image" style="display:block"><b>Image</b></label>
+        <input type="file" name="image" id="fileToUpload">
+        <input type="submit" style="display:block" value="Add Image">
+</form>
+
+</body>
+</html>

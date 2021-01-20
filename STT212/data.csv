@@ -1,0 +1,93 @@
+Timestamp,What is your ethnicity?,Which school are you in?,What are the top three genres of music you listen to? [Alternative/Indie],What are the top three genres of music you listen to? [Classical],What are the top three genres of music you listen to? [Country],What are the top three genres of music you listen to? [Dance/Electronic],What are the top three genres of music you listen to? [Hip-Hop/Rap],What are the top three genres of music you listen to? [Jazz],What are the top three genres of music you listen to? [K-pop],What are the top three genres of music you listen to? [Metal/Rock],What are the top three genres of music you listen to? [Pop],What are the top three genres of music you listen to? [RNB/Soul],What are the top three genres of music you listen to? [Trap],What are the top three genres of music you listen to? [Other],"If you listed ""Other"" for any choice of the previous question, please specify the genre and in what place you would place it.",How much money would you spend for a concert in a given genre? [Alternative/Indie],How much money would you spend for a concert in a given genre? [Classical],How much money would you spend for a concert in a given genre? [Country],How much money would you spend for a concert in a given genre? [Dance/Electronic],How much money would you spend for a concert in a given genre? [Hip-Hop/Rap],How much money would you spend for a concert in a given genre? [Jazz],How much money would you spend for a concert in a given genre? [K-pop],How much money would you spend for a concert in a given genre? [Metal/Rock],How much money would you spend for a concert in a given genre? [Pop],How much money would you spend for a concert in a given genre? [RNB/Soul],How much money would you spend for a concert in a given genre? [Trap],How much money would you spend for a concert in a given genre? [Other]
+11/16/2017 16:34:25,Asian / Pacific Islander,School of Arts and Sciences,,Third Choice,,,,,First Choice,,Second Choice,,,,,$0,$51-75,$0,$1-25,$1-25,$0,$76-100,$0,$76-100,$0,$0,
+11/16/2017 16:34:45,Caucasian,Eastman School of Music,,First Choice,,,,Third Choice,Second Choice,,,,,,,$1-25,$76-100,$1-25,$1-25,$26-50,$26-50,$51-75,$1-25,$26-50,$1-25,$1-25,
+11/16/2017 16:36:06,Caucasian,Eastman School of Music,,Second Choice,,,,Third Choice,,First Choice,,,,,,,$126-150,,,,$51-75,,$101-125,,,,
+11/16/2017 16:36:47,Mixed,School of Arts and Sciences,First Choice,,,,,,,Third Choice,Second Choice,,,,,$51-75,$51-75,$1-25,$1-25,$1-25,$51-75,$0,$51-75,$51-75,$26-50,$0,$0
+11/16/2017 16:36:49,Asian / Pacific Islander,Eastman School of Music,,First Choice,,,,Third Choice,,,Second Choice,,,,,$0,$101-125,$1-25,$0,$0,$26-50,$76-100,$0,$76-100,$0,$0,
+11/16/2017 16:36:53,Middle Eastern,School of Arts and Sciences,Second Choice,,,,First Choice,,,,,Third Choice,,,,$76-100,$0,$0,$51-75,$200+,$51-75,$0,$26-50,$101-125,$101-125,$76-100,
+11/16/2017 16:38:53,Asian / Pacific Islander,School of Arts and Sciences,First Choice,,,,,,Second Choice,,Third Choice,,,,,$1-25,$26-50,$0,$0,$0,$1-25,$26-50,$1-25,$1-25,$1-25,$0,$0
+11/16/2017 16:39:50,Asian / Pacific Islander,Eastman School of Music,,First Choice,,,Second Choice,,,,Third Choice,,,,,$0,$76-100,,,,,,,,,,
+11/16/2017 16:40:35,Caucasian,Eastman School of Music,,Second Choice,,First Choice,,Third Choice,,,,,,,,,,$51-75,$51-75,,,,,,,,
+11/16/2017 16:43:03,Asian / Pacific Islander,Eastman School of Music,,Third Choice,,,,,First Choice,,Second Choice,,,,,$0,$76-100,$0,$26-50,$26-50,$1-25,$126-150,$0,$101-125,$101-125,$76-100,$51-75
+11/16/2017 16:43:04,Asian / Pacific Islander,School of Arts and Sciences,First Choice,Third Choice,,,,,,,Second Choice,,,,,$51-75,$1-25,$0,$0,$26-50,$0,$0,$26-50,$51-75,$51-75,$0,$0
+11/16/2017 16:43:07,Black and Latino,Hajim School of Engineering,,,,,Third Choice,,,,Second Choice,,,First Choice,"Show Tunes, first place ",$1-25,$26-50,$0,$0,$26-50,$0,$1-25,$0,$26-50,$0,$0,$1-25
+11/16/2017 16:43:50,Caucasian,Eastman School of Music,,First Choice,,,,Second Choice,,Third Choice,,,,,,$0,$26-50,$0,$0,$0,$26-50,$0,$26-50,$0,$1-25,$0,$0
+11/16/2017 16:46:22,Black or African American,Eastman School of Music,,First Choice,,,,,,,Third Choice,Second Choice,,,,,$76-100,,,,,,,$126-150,$200+,,
+11/16/2017 16:46:47,Caucasian,School of Arts and Sciences,,,,,,Second Choice,,First Choice,,,,Third Choice,Fusion,$51-75,$101-125,$0,$0,$0,$101-125,$0,$126-150,$0,$0,$0,$126-150
+11/16/2017 16:48:10,Caucasian,Eastman School of Music,Third Choice,Second Choice,,,,,,,,,,First Choice,"American folk music (ex. Joni Mitchell, Simon & Garfunkle, Phil Ochs)",$0,$51-75,$0,$0,$0,$1-25,$0,$26-50,$0,$0,$0,$26-50
+11/16/2017 16:48:12,Caucasian,Eastman School of Music,,First Choice,,Third Choice,,,,,Second Choice,,,,,$1-25,$26-50,$0,$1-25,$0,$1-25,$0,$0,$26-50,$1-25,$0,$0
+11/16/2017 16:49:36,Asian / Pacific Islander,Eastman School of Music,First Choice,Second Choice,,,,,,,Third Choice,,,,,$1-25,$26-50,$0,$1-25,$1-25,$1-25,$1-25,$1-25,$1-25,$1-25,$1-25,
+11/16/2017 16:51:33,Caucasian,Hajim School of Engineering,First Choice,Third Choice,,,,,,,Second Choice,,,,,,$26-50,,,,,,,,,,
+11/16/2017 16:56:33,Hispanic or Latino,Hajim School of Engineering,,,,,Second Choice,Third Choice,,,,,,First Choice,Latin,$1-25,$1-25,$0,$0,$26-50,$26-50,$0,,$26-50,$51-75,$26-50,$51-75
+11/16/2017 17:01:14,Caucasian,Eastman School of Music,Second Choice,First Choice,,,,,,,Third Choice,,,,,$1-25,$76-100,$0,$0,$0,$1-25,$0,$0,$1-25,$0,$0,$0
+11/16/2017 17:07:51,Asian / Pacific Islander,Hajim School of Engineering,,,,Second Choice,First Choice,,,,,Third Choice,,,,,,,$151-175,$151-175,,,,,$151-175,,
+11/16/2017 17:08:20,Asian / Pacific Islander,Eastman School of Music,Second Choice,First Choice,,,,Third Choice,,,,,,,,$76-100,$26-50,$0,$0,$0,$1-25,$1-25,$0,$1-25,$0,$0,
+11/16/2017 17:13:51,Caucasian,Eastman School of Music,,First Choice,Third Choice,,,,,,,,,Second Choice,Classic rock,$1-25,$26-50,$1-25,$0,$0,$26-50,$1-25,$1-25,$0,$0,$0,
+11/16/2017 17:42:27,Asian / Pacific Islander,Eastman School of Music,,Second Choice,,,,,First Choice,,Third Choice,,,,,$0,$126-150,$0,$0,$0,$0,$51-75,$0,$1-25,$0,$0,
+11/16/2017 17:54:33,Asian / Pacific Islander,Hajim School of Engineering,Second Choice,Third Choice,,,,,First Choice,,,,,,,$1-25,$26-50,$0,$0,$0,$1-25,$26-50,$0,$0,$1-25,$0,
+11/16/2017 17:56:40,Hispanic or Latino,Hajim School of Engineering,,,,Third Choice,First Choice,,,,Second Choice,,,,,$0,$0,$0,$0,$0,$0,$0,$0,$0,$0,$0,$0
+11/16/2017 18:03:57,Asian / Pacific Islander,Eastman School of Music,,,,First Choice,Third Choice,,,,,,Second Choice,,,$1-25,$26-50,$0,$26-50,$26-50,$1-25,$1-25,$0,$0,$0,$1-25,
+11/16/2017 18:13:27,Asian / Pacific Islander,Eastman School of Music,,First Choice,,,,Third Choice,Second Choice,,,,,,,,$200+,,,,,,,,,,
+11/16/2017 18:54:41,Caucasian,Eastman School of Music,,First Choice,,Third Choice,,,,,Second Choice,,,,,$1-25,$26-50,$0,$1-25,,$1-25,,,$26-50,,,
+11/16/2017 19:04:10,Caucasian,School of Arts and Sciences,Second Choice,,,,,,,Third Choice,First Choice,,,,,$76-100,$26-50,$51-75,$26-50,$26-50,$26-50,$0,$51-75,$101-125,$26-50,$0,
+11/16/2017 19:16:36,Caucasian,"Other  (Graduate, Professor, staff...)",,Second Choice,,,,,,Third Choice,First Choice,,,,,$51-75,$101-125,$51-75,$1-25,$1-25,$26-50,$26-50,$101-125,$101-125,$1-25,$0,$0
+11/16/2017 19:18:18,Asian / Pacific Islander,School of Arts and Sciences,Third Choice,,,,,,,Second Choice,,,,First Choice,Punk,$26-50,$26-50,$0,$0,$26-50,$26-50,$0,$26-50,$0,$26-50,$26-50,$26-50
+11/16/2017 19:20:43,Asian / Pacific Islander,School of Arts and Sciences,,Third Choice,First Choice,,,,,,Second Choice,,,,,$0,$1-25,$26-50,$0,$0,$0,$0,$0,$0,$0,$0,$0
+11/16/2017 19:21:01,Asian / Pacific Islander,Eastman School of Music,,First Choice,,,,Second Choice,,,,,,Third Choice,Movie Soundtrack as third choice.,,$76-100,,,,$1-25,,,,,,$1-25
+11/16/2017 19:21:08,Caucasian,School of Arts and Sciences,First Choice,,,Second Choice,,,,,Third Choice,,,,,$26-50,$1-25,$0,$26-50,$1-25,,$1-25,$1-25,$1-25,$1-25,$0,$0
+11/16/2017 19:21:12,Caucasian,Hajim School of Engineering,First Choice,,,Third Choice,,,,,Second Choice,,,,,$101-125,$26-50,$1-25,$1-25,$0,$1-25,$0,$51-75,$51-75,$1-25,$0,$0
+11/16/2017 19:23:50,Caucasian,School of Arts and Sciences,First Choice,,,Second Choice,,,,,Third Choice,,,,,$51-75,$0,$0,$76-100,$76-100,$0,$0,$0,$51-75,$26-50,$51-75,
+11/16/2017 19:24:38,Asian / Pacific Islander,Hajim School of Engineering,,,,,First Choice,,,,,Third Choice,,Second Choice,Seggae/Sega - music from Mauritius (Home),$0,$0,$0,$0,$0,$0,$0,$0,$0,$0,$0,$0
+11/16/2017 19:35:25,Asian / Pacific Islander,School of Arts and Sciences,,Third Choice,First Choice,,,,,,Second Choice,,,,,$0,$1-25,$26-50,$0,$0,$1-25,$0,$0,$1-25,$1-25,$0,
+11/16/2017 19:49:08,Black or African American,School of Arts and Sciences,,,,,First Choice,,,,Third Choice,Second Choice,,,,$51-75,$51-75,$0,$51-75,$76-100,$51-75,$1-25,$1-25,$51-75,$51-75,$76-100,
+11/16/2017 19:52:08,Caucasian,Eastman School of Music,,First Choice,,,,Third Choice,,Second Choice,,,,,,,$26-50,,,,$1-25,,$0,,,,
+11/16/2017 19:53:26,Caucasian,Eastman School of Music,,First Choice,,,Second Choice,,,Third Choice,,,,,,$26-50,$51-75,$1-25,$26-50,$51-75,$1-25,$0,$26-50,$0,$0,$26-50,
+11/16/2017 19:54:10,Caucasian,School of Arts and Sciences,First Choice,,,Third Choice,Second Choice,,,,,,,,,$51-75,$0,$0,$1-25,$51-75,$0,$0,$26-50,$0,$0,$0,$26-50
+11/16/2017 19:58:40,Caucasian,School of Arts and Sciences,Third Choice,First Choice,,,,Second Choice,,,,,,,,$51-75,$76-100,$0,$1-25,$1-25,$51-75,$0,$1-25,$26-50,$1-25,$0,$76-100
+11/16/2017 20:04:02,Caucasian,School of Arts and Sciences,,,First Choice,,Third Choice,,,,Second Choice,,,,,,,$1-25,,$1-25,,,,$1-25,,,
+11/16/2017 20:12:34,Caucasian,School of Arts and Sciences,,Third Choice,,,Second Choice,,,First Choice,,,,,,$26-50,$101-125,$1-25,$26-50,$26-50,$1-25,$1-25,$51-75,$1-25,$1-25,$1-25,$0
+11/16/2017 20:36:14,Hispanic or Latino,Eastman School of Music,Third Choice,First Choice,,,,,,,Second Choice,,,,,$101-125,$101-125,$0,$51-75,$0,$1-25,$0,$0,$101-125,$0,$0,$0
+11/16/2017 20:53:07,Asian / Pacific Islander,Hajim School of Engineering,,First Choice,,,,,,,,,,,,,$26-50,,,,,,,,,,
+11/16/2017 21:20:09,Caucasian,Eastman School of Music,,First Choice,Third Choice,,,Second Choice,,,,,,,,$0,$26-50,$1-25,$0,$0,$26-50,$0,$0,$1-25,$0,$0,$0
+11/16/2017 21:27:14,Asian / Pacific Islander,School of Arts and Sciences,Second Choice,,,,Third Choice,,,,First Choice,,,,,,,,,,,,,$1-25,,,
+11/16/2017 21:31:37,Asian / Pacific Islander,Hajim School of Engineering,Second Choice,,Third Choice,,,,,,First Choice,,,,,$51-75,$0,$76-100,$0,$26-50,$0,$0,$0,$151-175,$1-25,$0,$1-25
+11/16/2017 21:39:04,Caucasian,School of Arts and Sciences,Third Choice,,,,Second Choice,,,,First Choice,,,,,$76-100,,,,$51-75,,,,$76-100,,,
+11/16/2017 21:40:56,Caucasian,School of Arts and Sciences,,,Third Choice,,,,,,,Second Choice,,First Choice,Movie Soundtrack,$0,$26-50,$51-75,$0,$0,$1-25,$0,$26-50,$26-50,$0,$0,$26-50
+11/16/2017 21:44:03,Asian / Pacific Islander,School of Arts and Sciences,,First Choice,,,,,Second Choice,,Third Choice,,,,,$0,$76-100,$0,$0,$0,$0,$0,$0,$0,$0,$0,$0
+11/16/2017 21:53:52,Caucasian,School of Arts and Sciences,,,,,,,,First Choice,Second Choice,,,Third Choice,Soundtracks,,,,,,,,,,,,
+11/16/2017 22:03:58,Caucasian,Eastman School of Music,,Second Choice,First Choice,,,,,,Third Choice,,,,,$0,$51-75,$51-75,$0,$0,$26-50,$0,$1-25,$1-25,$0,$0,$0
+11/16/2017 22:07:57,Caucasian,Hajim School of Engineering,First Choice,Second Choice,,,,,,,Third Choice,,,,,$1-25,$1-25,$1-25,$1-25,$1-25,$1-25,$1-25,$1-25,$1-25,$1-25,$1-25,$1-25
+11/16/2017 22:22:22,Asian / Pacific Islander,School of Arts and Sciences,,Second Choice,,First Choice,,Third Choice,,,,,,,,$1-25,$151-175,$1-25,$76-100,$1-25,$126-150,$51-75,$1-25,$1-25,$1-25,$1-25,
+11/16/2017 22:36:54,Caucasian,School of Arts and Sciences,,Third Choice,,,,,,,Second Choice,,,First Choice,Musical/soundtrack ,$0,$1-25,$0,$0,$0,$0,$0,$1-25,$26-50,$0,$0,$26-50
+11/16/2017 23:12:43,Caucasian,Eastman School of Music,First Choice,,,,Second Choice,,,,Third Choice,,,,,$51-75,$26-50,$51-75,$51-75,,$1-25,$0,$51-75,$51-75,$51-75,$0,$0
+11/16/2017 23:23:26,Caucasian,School of Arts and Sciences,First Choice,,,,,,,Second Choice,Third Choice,,,,,$26-50,$26-50,$0,$1-25,$26-50,$1-25,$0,$26-50,$51-75,$0,$0,
+11/16/2017 23:49:05,Caucasian,School of Arts and Sciences,First Choice,,,,Second Choice,,,,,,Third Choice,,,$76-100,$0,$1-25,$26-50,$76-100,$0,$0,$0,$0,$0,$51-75,$0
+11/16/2017 23:57:45,Asian / Pacific Islander,School of Arts and Sciences,Third Choice,,,Second Choice,,,,,First Choice,,,,,$51-75,$51-75,$0,$51-75,$51-75,$26-50,$26-50,$26-50,$126-150,$76-100,$0,
+11/17/2017 0:12:06,White,School of Arts and Sciences,Second Choice,,,,,,,First Choice,Third Choice,,,,,$0,$0,$0,$0,$0,$0,$0,$0,$0,$0,$0,$0
+11/17/2017 0:25:06,Caucasian,School of Arts and Sciences,First Choice,,,,,Second Choice,,Third Choice,,,,,,$26-50,,,,,$26-50,,$26-50,,,,
+11/17/2017 0:40:35,Caucasian,School of Arts and Sciences,,,,,Third Choice,,,,,Second Choice,,First Choice,Musical Theater and Worship/Gospel,$1-25,$1-25,$0,$0,$26-50,$1-25,$0,$0,$1-25,$1-25,$0,$76-100
+11/17/2017 1:04:12,Caucasian,School of Arts and Sciences,Second Choice,First Choice,,,,Third Choice,,,,,,,,$26-50,$76-100,$0,$0,$0,$26-50,$0,$26-50,$26-50,$0,$0,$0
+11/17/2017 1:31:50,Caucasian,School of Arts and Sciences,Third Choice,,First Choice,,,,,,Second Choice,,,,,$1-25,$0,$51-75,$0,$0,$0,$0,$0,$26-50,$0,$0,$0
+11/17/2017 2:01:06,Puerto Rican,Hajim School of Engineering,First Choice,Third Choice,,,,Second Choice,,,,,,,,$51-75,$151-175,$0,$1-25,,$101-125,$0,$76-100,$0,$51-75,$1-25,
+11/17/2017 2:02:35,Asian / Pacific Islander,School of Arts and Sciences,Third Choice,,,,,Second Choice,,,,,,First Choice,Musical Theater Showtunes!!!!,,,,,,$51-75,,,,,,$151-175
+11/17/2017 3:19:04,Caucasian,Hajim School of Engineering,,Third Choice,,First Choice,Second Choice,,,,,,,,,,$26-50,,$76-100,$26-50,,,,,,,
+11/17/2017 3:21:30,Caucasian,Hajim School of Engineering,Second Choice,Third Choice,,,,,,First Choice,,,,,,$1-25,$1-25,$0,$0,$0,$1-25,$0,$0,$0,$0,$0,$0
+11/17/2017 6:37:28,Caucasian,Hajim School of Engineering,First Choice,,,Third Choice,,Second Choice,,,,,,,,$101-125,,,$51-75,,$26-50,,,,,,
+11/17/2017 9:52:13,Hispanic or Latino,School of Arts and Sciences,First Choice,,,,,,Second Choice,,Third Choice,,,,,$76-100,$51-75,$0,$0,$76-100,$26-50,$76-100,$0,$26-50,$51-75,$0,
+11/17/2017 10:12:18,Caucasian,Hajim School of Engineering,Second Choice,,,,,,,,First Choice,,,Third Choice,Musical theater/Broadway,$76-100,$26-50,$1-25,$1-25,$1-25,$1-25,$1-25,$1-25,$101-125,$1-25,$1-25,$200+
+11/17/2017 10:13:49,Caucasian,School of Arts and Sciences,,,First Choice,,Third Choice,,,,Second Choice,,,,,$0,$51-75,$101-125,$51-75,$76-100,$26-50,$0,$0,$101-125,$26-50,$0,
+11/17/2017 12:13:29,Caucasian,School of Arts and Sciences,,,,Third Choice,Second Choice,,,,First Choice,,,,,$1-25,$0,$0,$26-50,$76-100,$0,$0,$0,$200+,$0,$0,
+11/17/2017 13:37:50,Hispanic or Latino,School of Arts and Sciences,,,,Third Choice,,,,,Second Choice,First Choice,,,,$0,$0,$0,$0,$0,$0,$0,$0,$0,$0,$0,$0
+11/17/2017 13:55:28,Caucasian,School of Arts and Sciences,Second Choice,First Choice,,,,,,Third Choice,,,,,,$26-50,$101-125,$1-25,$26-50,$26-50,$1-25,$0,$51-75,$76-100,$1-25,$0,$0
+11/17/2017 14:41:28,Indian and Caucasian,School of Arts and Sciences,Second Choice,,,,,,,First Choice,,Third Choice,,,,$26-50,$1-25,$0,$1-25,$0,$0,$0,$200+,$1-25,$1-25,$0,$0
+11/17/2017 16:29:58,Caucasian,Eastman School of Music,,,,Third Choice,,Second Choice,,,First Choice,,,,,$26-50,$26-50,$1-25,$51-75,$51-75,$51-75,$51-75,$1-25,$76-100,$76-100,$1-25,$1-25
+11/17/2017 16:31:33,Caucasian,School of Arts and Sciences,First Choice,,,,,,,,Second Choice,,,Third Choice,Musicals,$26-50,,,,,,,,$126-150,,,$126-150
+11/17/2017 17:24:43,Caucasian,Eastman School of Music,Third Choice,First Choice,,,,,,,Second Choice,,,,,$26-50,$1-25,,,,,,,$0,,,
+11/17/2017 17:55:01,Caucasian,School of Arts and Sciences,,Third Choice,,First Choice,,,,Second Choice,,,,,,$0,$0,$0,$0,$0,$0,$0,$0,$0,$0,$0,$0
+11/17/2017 18:01:06,Hispanic or Latino,Hajim School of Engineering,,,,,First Choice,Second Choice,,,,Third Choice,,,,$26-50,$1-25,$0,$26-50,$26-50,$26-50,$0,$0,$1-25,$26-50,$1-25,
+11/17/2017 19:14:36,Caucasian,School of Arts and Sciences,Second Choice,,,,,,,,Third Choice,,,First Choice,Jazz-pop that doesn’t really fit in either one of the genres more than the other (1st),$26-50,$1-25,$0,$1-25,$1-25,$1-25,$1-25,$0,$26-50,$26-50,$0,$26-50
+11/18/2017 1:59:41,Hispanic or Latino,Hajim School of Engineering,,Second Choice,,Third Choice,,,,,First Choice,,,,,$0,$101-125,$0,$51-75,$0,$0,$0,$0,$126-150,$0,$0,$0
+11/18/2017 14:11:02,Caucasian and hispanic,Hajim School of Engineering,Second Choice,,,,,Third Choice,,,,,,First Choice,"Old time, but not classical, like 1940s",$1-25,,,,,$1-25,,,,,,$1-25
+11/19/2017 22:18:00,Asian / Pacific Islander,Hajim School of Engineering,,,,,,,First Choice,,Second Choice,Third Choice,,,,$1-25,$26-50,$0,$1-25,$0,$1-25,$151-175,$0,$76-100,$76-100,$0,$0
+11/20/2017 10:08:28,Caucasian,School of Arts and Sciences,Third Choice,,,,,,,Second Choice,First Choice,,,,,$26-50,$0,$0,$1-25,$1-25,$1-25,$0,$26-50,$26-50,$1-25,$0,$0
+11/20/2017 12:59:34,Caucasian,Eastman School of Music,Third Choice,,,,,,,Second Choice,,,,First Choice,"Emo, 1st.",$26-50,$51-75,$1-25,$1-25,$0,$26-50,$0,$51-75,$26-50,$26-50,$1-25,$26-50

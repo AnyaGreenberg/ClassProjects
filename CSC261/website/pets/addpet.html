@@ -1,0 +1,69 @@
+<html>
+<head>
+<style>
+ul {
+    	list-style-type: none;
+        margin: 0;
+        padding: 0;
+}
+
+li {
+    	display: inline;
+}
+</style>
+</head>
+
+<body>
+      	<h1> Shelter Center </h1>
+
+<ul>
+	<li><a href="../shelter/viewPets.php">Pets at Your Shelter</a></li> <br>
+        <li><a href="../shelter/viewShelterRequests.php">Adoption Requests for Your Pets</a></li> <br>
+        <li><a href="../shelter/logoff.php">Log Off</a></li> 
+</ul>
+
+<h2> Add New Pet </h2>
+
+<form id="frm" action="addpet.php" method="post">
+        <label for="name" style="display:block"><b>Name</b></label>
+        If the pet does not have a name yet, enter "Unknown". <br>
+        <input type="text" placeholder="Pet's Name" name="name" size="35" required>
+<br> <br>
+	<label for="type" style="display:block"><b>Type</b></label> 
+	Example: Dog, Cat, Rabbit, etc. <br>
+        <input type="text" placeholder="Pet type" name="type" size="25">
+<br> <br>
+	<label for="breed1" style="display:block"><b>Breed</b></label>
+        Fill in the known breeds of the pet. Fill in at least Breed 1, the others can be left blank if appropriate. </br>
+        If the breed is unknown, enter "unknown" in the Breed 1 text box and leave the others blank. </br>
+        If the pet is a mix of more than three breeds, please enter the two most prominant breeds in Breed 1 and Breed 2 and enter "Other" in Breed 3. <br>
+        <input type="text" placeholder="Breed 1" name="breed1" size="35" required> <br>
+        <input type="text" placeholder="Breed 2" name="breed2" size="35"> <br>
+        <input type="text" placeholder="Breed 3" name="breed3" size="35"> <br>
+<br>
+    	<label for="age" style="display:block"><b>Age</b></label>
+        If either the of the values is 0, please enter 0. <br>
+        If the pet's age is unknown, enter your best estimate. <br>
+        <input type="text" placeholder="Years" name="agey" min="0" max="200" size="10" required> Years
+	<input type="text" placeholder="Months" name="agem" min="0" max="200" size="10" required> Months
+<br> <br>
+	<label for="origin" style="display:block"><b>Origin</b></label>
+        Please enter the city in which the pet was found or is being held for adoption. <br>
+        If the country of origin is unknown, please enter "Unknown". <br>
+        <input type="text" placeholder="Enter City of Origin" name="origin" size="35" required>
+<br> <br>
+	<label for="diet" style="display:block"><b>Dietary Restrictions</b></label>
+        If the pet does not have any known dietary restrictions, please enter "None". <br>
+        <input type="text" placeholder="Enter Dietrary Restrictions for Pet" name="diet" size="35" required>
+<br> <br>
+	<label for="personality" style="display:block"><b>Personality</b></label>
+        If there are no notable personality traits, please enter "N/A". <br>
+        <input type="text" placeholder="Enter Peresonality Traits for pet" name="pers" size="35" required>
+<br> <br>
+	<label for="ns" style="display:block"><b>Is the pet neutered/spade?</b></label>
+        <input type="radio" name="ns" value="TRUE"> Yes
+        <input type="radio" name="ns" value="FALSE"> No
+
+        <input type="submit" style="display:block" value="Add Pet">
+</body>
+</html>

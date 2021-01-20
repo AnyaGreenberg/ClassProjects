@@ -1,0 +1,50 @@
+<html>
+<head>
+<style>
+ul {
+    	list-style-type: none;
+        margin: 0;
+        padding: 0;
+}
+
+li {
+    	display: inline;
+}
+
+table, th, td {
+        border-bottom: 1px solid #ddd;
+}
+</style>
+</head>
+
+<body>
+        <h1> Filtered View </h1>
+<ul>
+    	<li><a href="home.php">View All Pets</a></li> <br>
+</ul>
+
+<h2> Filter by Type </h2>
+<form action="typesearch.php" method="post">
+	Input should have first letter of each word capitalized. <br>
+	<input type="text" placeholder="Type" name="type" required>
+	<input type="submit" style="display:block" value="Filter Results">
+</form>
+
+
+<h2> Filter by Breed </h2>
+<form action="breedsearch.php" method="post">
+	Input should have first letter of each word capitalized. <br>
+        <input type="text" placeholder="Breed" name="breed" required>
+        <input type="submit" style="display:block" value="Filter Results">
+</form>
+
+<h2> Filter by Type and Breed </h2>
+<form action="breedtypesearch.php" method="post">
+	Input should have first letter of each word capitalized. <br>
+        <input type="text" placeholder="Type" name="type" required> <br>
+	<input type="text" placeholder="Breed" name="breed" required>
+        <input type="submit" style="display:block" value="Filter Results">
+</form>
+
+</body>
+</html>
